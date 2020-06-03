@@ -1,0 +1,72 @@
+{
+  "_class": "document",
+  "do_objectID": "6168107E-0C94-45F7-8220-90C02571BE5E",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [{
+      "_class": "MSImmutableColorAsset",
+      "color": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6,
+        "green": 0.1098039215686274,
+        "red": 0.2549019607843137
+      }
+    }, {
+      "_class": "MSImmutableColorAsset",
+      "color": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2,
+        "green": 0.2,
+        "red": 0.2
+      }
+    }],
+    "gradientAssets": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "images": [],
+    "colors": [{
+      "_class": "color",
+      "alpha": 1,
+      "blue": 0.6,
+      "green": 0.1098039215686274,
+      "red": 0.2549019607843137
+    }, {
+      "_class": "color",
+      "alpha": 1,
+      "blue": 0.2,
+      "green": 0.2,
+      "red": 0.2
+    }],
+    "gradients": []
+  },
+  "colorSpace": 0,
+  "currentPageIndex": 0,
+  "foreignLayerStyles": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": [{
+    "_class": "MSJSONFileReference",
+    "_ref_class": "MSImmutablePage",
+    "_ref": "pages\/72A1B078-37D6-4AE7-A77F-3D755472F12E"
+  }, {
+    "_class": "MSJSONFileReference",
+    "_ref_class": "MSImmutablePage",
+    "_ref": "pages\/600BC81D-804B-4497-BFA2-B18273FF186F"
+  }]
+}

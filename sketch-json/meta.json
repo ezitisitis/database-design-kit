@@ -1,0 +1,45 @@
+{
+  "commit": "6bf1bb7d02be2c7e63a1a6d1a4e221acacddb3fe",
+  "pagesAndArtboards": {
+    "72A1B078-37D6-4AE7-A77F-3D755472F12E": {
+      "name": "Page 1",
+      "artboards": {
+        "19D12C94-8463-463E-A33E-5F2651406B2E": {
+          "name": "Sample"
+        }
+      }
+    },
+    "600BC81D-804B-4497-BFA2-B18273FF186F": {
+      "name": "Symbols",
+      "artboards": {
+        "1514E301-77B0-4176-AAC9-2DB16274EE57": {
+          "name": "Database kit\/Relations\/Horizontal"
+        },
+        "E9ED8918-A8AC-46B1-9863-54BC29D62F99": {
+          "name": "Database kit\/Table part\/Heading"
+        },
+        "1230B7AE-2171-48CB-9AF7-6F4053428D65": {
+          "name": "Database kit\/Table part\/Column"
+        }
+      }
+    }
+  },
+  "version": 116,
+  "fonts": ["Roboto-Regular", "Roboto-Bold"],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "6bf1bb7d02be2c7e63a1a6d1a4e221acacddb3fe",
+    "appVersion": "53",
+    "build": 72520,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 116,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.72520"],
+  "appVersion": "53",
+  "build": 72520
+}

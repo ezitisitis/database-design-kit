@@ -1,0 +1,653 @@
+{
+  "_class": "page",
+  "do_objectID": "72A1B078-37D6-4AE7-A77F-3D755472F12E",
+  "booleanOperation": -1,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "layers": [{
+    "_class": "artboard",
+    "do_objectID": "19D12C94-8463-463E-A33E-5F2651406B2E",
+    "booleanOperation": -1,
+    "exportOptions": {
+      "_class": "exportOptions",
+      "exportFormats": [],
+      "includedLayerIds": [],
+      "layerOptions": 0,
+      "shouldTrim": false
+    },
+    "frame": {
+      "_class": "rect",
+      "constrainProportions": false,
+      "height": 640,
+      "width": 800,
+      "x": 216,
+      "y": 95
+    },
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 2,
+    "name": "Sample",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": true,
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+      "_class": "style",
+      "endMarkerType": 0,
+      "miterLimit": 10,
+      "startMarkerType": 0,
+      "windingRule": 1
+    },
+    "groupLayout": {
+      "_class": "MSImmutableFreeformGroupLayout"
+    },
+    "hasClickThrough": true,
+    "layers": [{
+      "_class": "group",
+      "do_objectID": "2508342D-4CD0-4396-8A4A-E66F26D5C56A",
+      "booleanOperation": -1,
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 104,
+        "width": 240,
+        "x": 120,
+        "y": 252
+      },
+      "isFixedToViewport": false,
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "user-table",
+      "nameIsFixed": true,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "clippingMaskMode": 0,
+      "hasClippingMask": false,
+      "style": {
+        "_class": "style",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+      },
+      "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+      },
+      "hasClickThrough": false,
+      "layers": [{
+        "_class": "symbolInstance",
+        "do_objectID": "B50C8A88-3F58-486B-AA30-62CC124C0F02",
+        "booleanOperation": -1,
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 40,
+          "width": 240,
+          "x": 0,
+          "y": 0
+        },
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Database kit\/Table part\/Heading",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "clippingMaskMode": 0,
+        "hasClippingMask": false,
+        "style": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "horizontalSpacing": 0,
+        "overrideValues": [{
+          "_class": "overrideValue",
+          "do_objectID": "3C0B60AE-19E9-4E74-8979-A7C0427DCE82",
+          "overrideName": "72E5EB14-13BE-477C-911C-03FBDFEE66B5_stringValue",
+          "value": "Users"
+        }],
+        "scale": 1,
+        "symbolID": "284C274F-54A8-4947-AD1B-10312D4DB280",
+        "verticalSpacing": 0
+      }, {
+        "_class": "symbolInstance",
+        "do_objectID": "DE174942-D0BA-454F-BD61-2A9AFDAD0765",
+        "booleanOperation": -1,
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 240,
+          "x": 0,
+          "y": 40
+        },
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Database kit\/Table part\/Column",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "clippingMaskMode": 0,
+        "hasClippingMask": false,
+        "style": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "horizontalSpacing": 0,
+        "overrideValues": [{
+          "_class": "overrideValue",
+          "do_objectID": "8D3AB41E-C117-4591-8CC3-907BCD25F6C7",
+          "overrideName": "793A4523-FF10-434E-9764-D9AC45B3DEDB_stringValue",
+          "value": "id"
+        }, {
+          "_class": "overrideValue",
+          "do_objectID": "D85B5106-74E3-4878-8FBA-84A2E25CB2E6",
+          "overrideName": "BBF5DE85-563D-4EA1-AE18-C17D7B47FC90_stringValue",
+          "value": "int"
+        }],
+        "scale": 1,
+        "symbolID": "8E11C3BF-86C6-41B6-BCC4-8837EAF89E37",
+        "verticalSpacing": 0
+      }, {
+        "_class": "symbolInstance",
+        "do_objectID": "A8A6ECAF-363E-4096-A449-E4A7362FDB92",
+        "booleanOperation": -1,
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "D3A1C878-0A12-4444-9689-60AAEB68B2DF",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "do_objectID": "79AC34BB-DD5A-44BD-A1CF-CFCF04A8A77E",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 240,
+          "x": 0,
+          "y": 72
+        },
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Database kit\/Table part\/Column Copy",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "clippingMaskMode": 0,
+        "hasClippingMask": false,
+        "style": {
+          "_class": "style",
+          "do_objectID": "F8F18FBA-83AE-4C11-97C7-302FAA1D5F56",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "horizontalSpacing": 0,
+        "overrideValues": [{
+          "_class": "overrideValue",
+          "do_objectID": "531826F9-8ED8-4C4A-BB9D-6E11C1AFBFCF",
+          "overrideName": "793A4523-FF10-434E-9764-D9AC45B3DEDB_stringValue",
+          "value": "role_id"
+        }, {
+          "_class": "overrideValue",
+          "do_objectID": "944CB6C6-D8E7-4A4E-9FA6-1F1E891D35BD",
+          "overrideName": "BBF5DE85-563D-4EA1-AE18-C17D7B47FC90_stringValue",
+          "value": "int"
+        }],
+        "scale": 1,
+        "symbolID": "8E11C3BF-86C6-41B6-BCC4-8837EAF89E37",
+        "verticalSpacing": 0
+      }]
+    }, {
+      "_class": "group",
+      "do_objectID": "A0EEF453-1E8D-4077-9556-4903116D38FF",
+      "booleanOperation": -1,
+      "exportOptions": {
+        "_class": "exportOptions",
+        "do_objectID": "07307AD7-57DE-488B-AB4E-B8BD232FFE99",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "do_objectID": "3241330D-8FB6-496B-8729-E2EAA29280C9",
+        "constrainProportions": false,
+        "height": 136,
+        "width": 240,
+        "x": 440.0000000000001,
+        "y": 252
+      },
+      "isFixedToViewport": false,
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "user-table copy",
+      "nameIsFixed": true,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "clippingMaskMode": 0,
+      "hasClippingMask": false,
+      "style": {
+        "_class": "style",
+        "do_objectID": "B0C087EF-D7DC-4245-8A5B-280FF77364A4",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+      },
+      "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout",
+        "do_objectID": "4B574EB0-8DAD-48D7-B071-576FBEB04679"
+      },
+      "hasClickThrough": false,
+      "layers": [{
+        "_class": "symbolInstance",
+        "do_objectID": "C8F8D6D0-CD12-45EA-BD90-9FA810B8D987",
+        "booleanOperation": -1,
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "B602EAFC-0B09-4EE2-B6DB-558A28DE2BCA",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "do_objectID": "EF676C35-6101-401B-ADF1-CEB1524DC1A8",
+          "constrainProportions": false,
+          "height": 40,
+          "width": 240,
+          "x": 0,
+          "y": 0
+        },
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Database kit\/Table part\/Heading",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "clippingMaskMode": 0,
+        "hasClippingMask": false,
+        "style": {
+          "_class": "style",
+          "do_objectID": "3750649C-1C0E-4213-9399-D5246EFC745F",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "horizontalSpacing": 0,
+        "overrideValues": [{
+          "_class": "overrideValue",
+          "do_objectID": "3C0B60AE-19E9-4E74-8979-A7C0427DCE82",
+          "overrideName": "72E5EB14-13BE-477C-911C-03FBDFEE66B5_stringValue",
+          "value": "Roles"
+        }],
+        "scale": 1,
+        "symbolID": "284C274F-54A8-4947-AD1B-10312D4DB280",
+        "verticalSpacing": 0
+      }, {
+        "_class": "symbolInstance",
+        "do_objectID": "0C68EEAD-9143-4A91-80BA-C7AA821EF24B",
+        "booleanOperation": -1,
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "8C429676-96F4-47A8-9505-363D1A7CED3F",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "do_objectID": "32C51C6F-92EA-470C-9440-CF9D899C911E",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 240,
+          "x": 0,
+          "y": 40
+        },
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Database kit\/Table part\/Column",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "clippingMaskMode": 0,
+        "hasClippingMask": false,
+        "style": {
+          "_class": "style",
+          "do_objectID": "34B9F807-30B7-40D4-9267-7AF173EFF861",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "horizontalSpacing": 0,
+        "overrideValues": [{
+          "_class": "overrideValue",
+          "do_objectID": "8D3AB41E-C117-4591-8CC3-907BCD25F6C7",
+          "overrideName": "793A4523-FF10-434E-9764-D9AC45B3DEDB_stringValue",
+          "value": "id"
+        }, {
+          "_class": "overrideValue",
+          "do_objectID": "D85B5106-74E3-4878-8FBA-84A2E25CB2E6",
+          "overrideName": "BBF5DE85-563D-4EA1-AE18-C17D7B47FC90_stringValue",
+          "value": "int"
+        }],
+        "scale": 1,
+        "symbolID": "8E11C3BF-86C6-41B6-BCC4-8837EAF89E37",
+        "verticalSpacing": 0
+      }, {
+        "_class": "symbolInstance",
+        "do_objectID": "141B6149-12BA-45EA-A032-5A412B626150",
+        "booleanOperation": -1,
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "C59745D6-B74E-4BDB-A199-50D06400ED70",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "do_objectID": "449962D0-2F2F-4C35-99B6-AA1D2393FC2E",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 240,
+          "x": 0,
+          "y": 72
+        },
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Database kit\/Table part\/Column Copy",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "clippingMaskMode": 0,
+        "hasClippingMask": false,
+        "style": {
+          "_class": "style",
+          "do_objectID": "F1BE307F-2DE7-49D3-B758-9FE69F588D04",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "horizontalSpacing": 0,
+        "overrideValues": [{
+          "_class": "overrideValue",
+          "do_objectID": "531826F9-8ED8-4C4A-BB9D-6E11C1AFBFCF",
+          "overrideName": "793A4523-FF10-434E-9764-D9AC45B3DEDB_stringValue",
+          "value": "role_name"
+        }, {
+          "_class": "overrideValue",
+          "do_objectID": "944CB6C6-D8E7-4A4E-9FA6-1F1E891D35BD",
+          "overrideName": "BBF5DE85-563D-4EA1-AE18-C17D7B47FC90_stringValue",
+          "value": "string"
+        }],
+        "scale": 1,
+        "symbolID": "8E11C3BF-86C6-41B6-BCC4-8837EAF89E37",
+        "verticalSpacing": 0
+      }, {
+        "_class": "symbolInstance",
+        "do_objectID": "565AB208-5E49-48DE-9962-73660C986AFB",
+        "booleanOperation": -1,
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "14B6E184-DEB7-46EE-9A23-FF743B62DB5B",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "do_objectID": "7C786732-811E-46D7-847B-C5F3C7EAEC23",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 240,
+          "x": 0,
+          "y": 104
+        },
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Database kit\/Table part\/Column Copy 2",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "clippingMaskMode": 0,
+        "hasClippingMask": false,
+        "style": {
+          "_class": "style",
+          "do_objectID": "7C2CB4B7-1C9F-4DE0-B52A-75514ABA33BA",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "horizontalSpacing": 0,
+        "overrideValues": [{
+          "_class": "overrideValue",
+          "do_objectID": "531826F9-8ED8-4C4A-BB9D-6E11C1AFBFCF",
+          "overrideName": "793A4523-FF10-434E-9764-D9AC45B3DEDB_stringValue",
+          "value": "permissions"
+        }, {
+          "_class": "overrideValue",
+          "do_objectID": "944CB6C6-D8E7-4A4E-9FA6-1F1E891D35BD",
+          "overrideName": "BBF5DE85-563D-4EA1-AE18-C17D7B47FC90_stringValue",
+          "value": "text"
+        }],
+        "scale": 1,
+        "symbolID": "8E11C3BF-86C6-41B6-BCC4-8837EAF89E37",
+        "verticalSpacing": 0
+      }]
+    }, {
+      "_class": "symbolInstance",
+      "do_objectID": "8BB35C6D-78C1-4B4B-91FC-18BDC374B3A2",
+      "booleanOperation": -1,
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 32.00000000000001,
+        "width": 80,
+        "x": 360,
+        "y": 308
+      },
+      "isFixedToViewport": false,
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "Database kit\/Relations\/Horizontal",
+      "nameIsFixed": false,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "clippingMaskMode": 0,
+      "hasClippingMask": false,
+      "style": {
+        "_class": "style",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+      },
+      "horizontalSpacing": 0,
+      "overrideValues": [],
+      "scale": 1,
+      "symbolID": "CC8A9C43-A697-429A-9278-6FC9FD247E4A",
+      "verticalSpacing": 0
+    }],
+    "backgroundColor": {
+      "_class": "color",
+      "alpha": 1,
+      "blue": 1,
+      "green": 1,
+      "red": 1
+    },
+    "hasBackgroundColor": false,
+    "horizontalRulerData": {
+      "_class": "rulerData",
+      "base": 0,
+      "guides": []
+    },
+    "includeBackgroundColorInExport": true,
+    "includeInCloudUpload": true,
+    "isFlowHome": false,
+    "resizesContent": false,
+    "verticalRulerData": {
+      "_class": "rulerData",
+      "base": 0,
+      "guides": []
+    }
+  }],
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeInCloudUpload": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}
